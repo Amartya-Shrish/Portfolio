@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    background: background linear-gradient(#03f2ff 0%, #ab18f5 100%);
+}
+.ig
+{
+    height: 250px;
+    width:  250px;
+    border-width:10px;
+    border-style: inset;
+    border-color: currentColor;
+    padding:5px; 
+}
+p
+{
+    font-size: 20px;
+}
+.text
+{
+    font-family: 'Lobster', cursive;
+}
